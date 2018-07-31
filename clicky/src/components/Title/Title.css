@@ -1,7 +1,0 @@
-.header{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    background-color: purple;
-    color: white;
-    padding: 40px
-}
